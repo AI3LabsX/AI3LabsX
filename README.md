@@ -1,10 +1,8 @@
-![Ai3 Labs Header](https://yourimageurl.com/header-image.png "Welcome to Ai3 Labs")
-
 # Ai3 Labs
 
 Welcome to Ai3Labs, where we harness the power of artificial intelligence to build the future. Specializing in AI-driven applications, tools, and comprehensive community management, we ensure precise, efficient solutions tailored to your needs. Let us help you transform your business with the power of AI.
 
-![GitHub followers](https://img.shields.io/github/followers/ai3labs?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/RichardRexxar?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ai3labs?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Collectxrnft?style=social)
 
 ## Skills
 
