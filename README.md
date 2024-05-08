@@ -2,7 +2,7 @@
 
 Welcome to Ai3Labs, where we harness the power of artificial intelligence to build the future. Specializing in AI-driven applications, tools, and comprehensive community management, we ensure precise, efficient solutions tailored to your needs. Let us help you transform your business with the power of AI.
 
-![Twitter Follow](https://img.shields.io/badge/Follow%20@Collectxrnft-%20on%20Twitter-blue?style=social&logo=twitter)(https://twitter.com/Collectxrnft)
+![Twitter Follow](https://twitter.com/Collectxrnft)(https://img.shields.io/badge/Follow%20@Collectxrnft-%20on%20Twitter-blue?style=social&logo=twitter)
 
 ## Skills
 
