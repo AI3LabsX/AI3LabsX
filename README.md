@@ -7,7 +7,7 @@ Welcome to Ai3Labs, where we harness the power of artificial intelligence to bui
 - **Languages and Frameworks:** Python, Rust, HTML5, CSS, SASS
 - **Tools and Platforms:** Git, SQL Databases, Azure, AWS, GCP, Docker
 
-## Contact Me
+## Contact Us
 
 Let's connect and discuss how we can work together:
 - Dev: [@RichardRexxar](https://twitter.com/RichardRexxar)
