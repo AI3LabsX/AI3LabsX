@@ -21,7 +21,7 @@ Let's connect and discuss how we can work together:
 ⚡ **Advanced Security:** Robust security frameworks for LLM-based applications.
 
 <details>
-<summary>## Deployed Projects (Click to Expand)</summary>
+<summary>Deployed Projects (Click to Expand)</summary>
 
 - **BREG for iLuminary.AI:** Advanced AI assistant chatbot.
 - **FreeName Support Community Bot:** Community support bot with data scraping functionalities.
