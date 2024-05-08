@@ -10,8 +10,8 @@ Welcome to Ai3Labs, where we harness the power of artificial intelligence to bui
 ## Contact Me
 
 Let's connect and discuss how we can work together:
-- Twitter: [@RichardRexxar](https://twitter.com/RichardRexxar)
-- Telegram: [@Collectxr](https://twitter.com/Collectxr)
+- Dev: [@RichardRexxar](https://twitter.com/RichardRexxar)
+- BD: [@Collectxr](https://twitter.com/Collectxrnft)
 
 ## What We Do!
 
@@ -24,6 +24,9 @@ Let's connect and discuss how we can work together:
 - **BREG for iLuminary.AI:** Advanced AI assistant chatbot.
 - **FreeName Support Community Bot:** Community support bot with data scraping functionalities.
 - **DeFinity AI Assistant:** Market assistant with API integrations and advanced retrieval capabilities.
+- **AI New agregator** Solution we have to automatically monitor RRS feeds, filter based on keywords and AI relevance. Bullet points and send in Tg group
+- **Ultimate X.com Scrapper** Create no API scrapper for X.com
+- **Collectxr Comminity moderator** AI Degen bot for the Collectxr Community
 
 ## Reach Out
 
