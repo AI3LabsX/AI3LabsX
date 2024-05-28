@@ -16,8 +16,10 @@ Let's connect and discuss how we can work together:
 
 ## What We Do!
 
-⚡ **Custom AI Solutions:** Development of tailored responsive GenAI applications, bots, and agents using the latest models and frameworks.\n
-⚡ **Multiplatform Integration:** Seamless integration across WebApps, Telegram, Discord, WhatsApp, and mobile platforms.\n
+⚡ **Custom AI Solutions:** Development of tailored responsive GenAI applications, bots, and agents using the latest models and frameworks.
+
+⚡ **Multiplatform Integration:** Seamless integration across WebApps, Telegram, Discord, WhatsApp, and mobile platforms.
+
 ⚡ **Advanced Security:** Robust security frameworks for LLM-based applications.
 
 <details>
