@@ -82,5 +82,13 @@ Whether it’s AI-powered apps or community solutions, we’ve got you covered. 
 
 ---
 
-_Made with ❤️ by Ai3 Labs | Theme by RicRex_
+## 💬 Leave a Comment
+
+We value your feedback! Please feel free to leave a comment below:
+
+```html
+<input type="text" placeholder="Write your comment here..." style="width: 80%; padding: 10px; margin-top: 10px;" />
+<button style="padding: 10px; background-color: #008CBA; color: white; border: none; cursor: pointer;">Post Comment</button>
 ```
+
+_Made with ❤️ by Ai3 Labs | Theme by RicRex_
