@@ -29,7 +29,7 @@ $ Ai3 Labs is ready to innovate with you! 🎉
 | Rust 🦀       | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow) |
 | HTML5 🌐     | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
 | CSS 🌺       | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
-| JavaScript ⚡ | ![Expert](https://img.shields.io/badge/Level-Expert-green) |
+| JavaScript/Typescipt ⚡ | ![Expert](https://img.shields.io/badge/Level-Expert-green) |
 | Node.js 🚀    | ![Expert](https://img.shields.io/badge/Level-Expert-green) |
 | React ⚛️      | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
 
