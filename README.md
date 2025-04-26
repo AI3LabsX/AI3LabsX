@@ -1,6 +1,6 @@
-# 🌌 Ai3 Labs
+# 🌌 RicRex
 
-Welcome to **Ai3Labs**! We harness the power of artificial intelligence to shape the future, offering AI-driven applications, tools, and comprehensive community management. Let us help you **transform your business with AI**.
+Welcome to **RicRex**! We harness the power of artificial intelligence to shape the future, offering AI-driven applications, tools, and comprehensive community management. Let us help you **transform your business with AI**.
 
 ---
 
@@ -48,7 +48,6 @@ $ Ai3 Labs is ready to innovate with you! 🎉
 | Role      | Twitter Profile                                        |
 |-----------|--------------------------------------------------------|
 | **Dev**   | [@RichardRexxar](https://twitter.com/RichardRexxar)    |
-| **BD**    | [@Collectxr](https://twitter.com/Collectxrnft)         |
 
 ---
 
