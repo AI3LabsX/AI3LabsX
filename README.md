@@ -6,7 +6,7 @@
   <a href="mailto:riharex420@gmail.com">riharex420@gmail.com</a>
 </p>
 
-I build LLM applications and AI agents and take them all the way to production: architecture, backend, frontend, CI/CD, security, and the risk assessments a regulated company asks for before go-live. 8 years of Python, AI since 2021, across insurance, pharma, banking and energy.
+I build LLM applications and AI agents and take them all the way to production: architecture, backend, frontend, CI/CD, security, and the risk assessments a regulated company asks for before go-live. 8 years of Python, IT since 2020, across insurance, pharma, banking and energy.
 
 Most of that work is private or under NDA, so what you see here is forks and experiments. The case studies are on [rexxar.xyz](https://rexxar.xyz/#cases).
 
