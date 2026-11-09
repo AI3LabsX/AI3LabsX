@@ -1,85 +1,32 @@
-# 🌌 RicRex
+<a href="https://rexxar.xyz"><img src="assets/hero.svg" width="100%" alt="Egor Suslin, Senior AI Engineer in Prague. An ASCII portrait looks around next to a terminal that types whoami, then ship --to production, and ends with live at rexxar.xyz."></a>
 
-Welcome to **RicRex**! We harness the power of artificial intelligence to shape the future, offering AI-driven applications, tools, and comprehensive community management. Let us help you **transform your business with AI**.
+<p align="center">
+  <a href="https://rexxar.xyz"><b>rexxar.xyz</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/egor-suslin-data-science">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:riharex420@gmail.com">riharex420@gmail.com</a>
+</p>
 
----
+I build LLM applications and AI agents and take them all the way to production: architecture, backend, frontend, CI/CD, security, and the risk assessments a regulated company asks for before go-live. 8 years of Python, AI since 2021, across insurance, pharma, banking and energy.
 
-### **🚀 Terminal Experience: Run 'Ai3 Labs'**
+Most of that work is private or under NDA, so what you see here is forks and experiments. The case studies, with animated architecture diagrams, are on [rexxar.xyz](https://rexxar.xyz/#cases).
 
-```bash
-$ Welcome to Ai3 Labs
-$ Initializing Artificial Intelligence solutions...
-$ Loading Skills & Frameworks... done ✅
-$ Setting up Platform Integrations... done ✅
-$ Deploying Projects... success ✅
-$ Ai3 Labs is ready to innovate with you! 🎉
+### What I build
+
+- **Agentic AI**: multi-agent workflows, tool calling, MCP, and identity, policy and audit layers for AI agents that make payments
+- **RAG and document AI**, including medical document analysis
+- **Voice AI**: speech-to-text, text-to-speech and live translation for customer support
+- **AI security and compliance**: guardrails, access control, the EU AI Act, security and risk assessments
+- **Production**: Kubernetes, Terraform, Docker and CI/CD on Azure, Google Cloud and DigitalOcean
+
+### Stack
+
+```text
+lang    python · typescript · go · rust · sql
+ai      langgraph · langchain · mcp · rag · evals
+models  azure openai · vertex ai · claude · gemini · ollama · whisper
+web     fastapi · react · next.js · node.js · astro
+infra   kubernetes · terraform · docker · nginx · ci/cd · azure · gcp · digitalocean
+data    postgresql · mongodb · redis
 ```
 
-> **Note:** Just a glimpse! We’re always ready to build real solutions for real-world impact. 💡
-
----
-
-## 👨‍💻 Skills
-
-### **Languages and Frameworks:**
-
-| Skill         | Level                   |
-|---------------|-------------------------|
-| Python 🐍     | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
-| Rust 🦀       | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow) |
-| HTML5 🌐     | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
-| CSS 🌺       | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
-| JavaScript/Typescipt ⚡ | ![Expert](https://img.shields.io/badge/Level-Expert-green) |
-| Node.js 🚀    | ![Expert](https://img.shields.io/badge/Level-Expert-green) |
-| React ⚛️      | ![Advanced](https://img.shields.io/badge/Level-Advanced-blue) |
-
-> *Click on a level to view project examples or learn more about each skill on our [GitHub](#) repositories.*
-
-### **Platforms and Tools:**
-![Azure](https://img.shields.io/badge/Azure-Ready-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Configured-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Optimized-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
----
-
-## 📬 Contact Us
-
-| Role      | Twitter Profile                                        |
-|-----------|--------------------------------------------------------|
-| **Dev**   | [@RichardRexxar](https://twitter.com/RichardRexxar)    |
-
----
-
-## 🛠️ What We Do!
-
-⚡ **Custom AI Solutions:** Development of tailored, responsive GenAI applications, bots, and agents.
-
-⚡ **Multiplatform Integration:** Seamless integration across WebApps, Telegram, Discord, WhatsApp, and mobile platforms.
-
-⚡ **Advanced Security:** Robust security frameworks designed for LLM-based applications.
-
----
-
-<details>
-<summary>Deployed Projects (Click to Expand)</summary>
-
-- **BREG for iLuminary.AI:** Advanced AI assistant chatbot.
-- **FreeName Support Community Bot:** Community support bot with data scraping functionalities.
-- **DeFinity AI Assistant:** Market assistant with API integrations and advanced retrieval capabilities.
-- **AI News Aggregator:** Automated monitoring of RSS feeds, filtering based on keywords and AI relevance.
-- **Ultimate X.com Scraper:** Custom scraper for X.com without using official APIs.
-- **Collectxr Community Moderator:** AI-powered moderation bot for the Collectxr Community.
-
-</details>
-
----
-
-### Ready to Transform?
-
-Whether it’s AI-powered apps or community solutions, we’ve got you covered. Get in touch with us!
-
----
-
-_Made with ❤️ by Ai3 Labs | Theme by RicRex_
-
+<sub>The portrait is plain ASCII: each character is picked by shape from a photo and a depth map. On <a href="https://rexxar.xyz">rexxar.xyz</a> it runs live and follows your cursor.</sub>
