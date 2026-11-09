@@ -1,4 +1,4 @@
-<a href="https://rexxar.xyz"><img src="assets/hero-e44a39bc.svg" width="100%" alt="Richard Rexxar, Senior AI Engineer in Prague. An ASCII portrait in a red oni mask looks around next to a terminal that types whoami, then ship --to production, and ends with live at rexxar.xyz."></a>
+<a href="https://rexxar.xyz"><img src="assets/hero-cdb5eac8.svg" width="100%" alt="Richard Rexxar, Senior AI Engineer in Prague. An ASCII portrait in a red oni mask looks around next to a terminal that types whoami, then ship --to production, and ends with live at rexxar.xyz."></a>
 
 <p align="center">
   <a href="https://rexxar.xyz"><b>rexxar.xyz</b></a> &nbsp;·&nbsp;
