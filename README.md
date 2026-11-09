@@ -1,4 +1,4 @@
-<a href="https://rexxar.xyz"><img src="assets/hero.svg" width="100%" alt="Egor Suslin, Senior AI Engineer in Prague. An ASCII portrait looks around next to a terminal that types whoami, then ship --to production, and ends with live at rexxar.xyz."></a>
+<a href="https://rexxar.xyz"><img src="assets/hero.svg" width="100%" alt="Richard Rexxar, Senior AI Engineer in Prague. An ASCII portrait in a red oni mask looks around next to a terminal that types whoami, then ship --to production, and ends with live at rexxar.xyz."></a>
 
 <p align="center">
   <a href="https://rexxar.xyz"><b>rexxar.xyz</b></a> &nbsp;·&nbsp;
@@ -29,4 +29,4 @@ infra   kubernetes · terraform · docker · nginx · ci/cd · azure · gcp · d
 data    postgresql · mongodb · redis
 ```
 
-<sub>The portrait is plain ASCII: each character is picked by shape from a photo and a depth map. On <a href="https://rexxar.xyz">rexxar.xyz</a> it runs live and follows your cursor.</sub>
+<sub>The portrait is plain ASCII: each character is picked by shape from a photo and a depth map, with the oni mask painted on before the conversion. On <a href="https://rexxar.xyz">rexxar.xyz</a> it runs live, unmasked, and follows your cursor.</sub>
