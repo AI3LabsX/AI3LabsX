@@ -1,4 +1,4 @@
-<a href="https://rexxar.xyz"><img src="assets/hero-43981bbf.svg" width="100%" alt="Richard Rexxar, Senior AI Engineer in Prague. An ASCII portrait in a red oni mask looks around while vermilion katakana rain falls behind it. A terminal types whoami, the name scrambles into place, then ship --to production and live at rexxar.xyz."></a>
+<a href="https://rexxar.xyz"><img src="assets/hero-9cdafa9c.svg" width="100%" alt="Richard Rexxar, Senior AI Engineer in Prague. An ASCII portrait in a red oni mask looks around while vermilion katakana rain falls behind it. A terminal types whoami, the name scrambles into place, then ship --to production and live at rexxar.xyz."></a>
 
 <p align="center">
   <a href="https://rexxar.xyz"><b>rexxar.xyz</b></a> &nbsp;·&nbsp;
@@ -12,7 +12,7 @@ Most of that work is private or under NDA, so what you see here is forks and exp
 
 <img src="assets/h-build-ee1937e4.svg" width="100%" alt="What I build">
 
-<a href="https://rexxar.xyz/#build"><img src="assets/showreel-b4aa70cf.svg" width="100%" alt="Showreel of five ASCII scenes morphing into each other: a voice waveform for voice AI, a page being scanned for document AI, agents passing messages for agents and RAG, a radar inside a shield for AI security, and packets flowing into server racks for production. A caption types under each title."></a>
+<a href="https://rexxar.xyz/#build"><img src="assets/demos-678451d5.webp" width="100%" alt="Five live terminal demos in turn. Voice AI: a Czech request is transcribed, translated to English, booked with a tool call and answered by voice. Document AI: a scan line reads a claim and fills a validated JSON. Agents and RAG: an agent trace with retrieval, tool calls and a human approval. AI security: an audit checks prompt injection, PII redaction, secrets, permissions and residency before go-live. Production: build, test, scan and rollout bars fill, then latency and health appear."></a>
 
 - **Agentic AI**: multi-agent workflows, tool calling, MCP, and identity, policy and audit layers for AI agents that make payments
 - **RAG and document AI**, including medical document analysis
@@ -30,4 +30,4 @@ Most of that work is private or under NDA, so what you see here is forks and exp
 
 <img src="assets/stack-d2e181b7.svg" width="100%" alt="A terminal boots the stack module by module. lang: Python, TypeScript, Go, Rust, SQL. ai: LangGraph, LangChain, MCP, RAG, evals. models: Azure OpenAI, Vertex AI, Claude, Gemini, Ollama, Whisper. web: FastAPI, React, Next.js, Node.js, Astro. infra: Kubernetes, Terraform, Docker, nginx, CI/CD, Azure, GCP, DigitalOcean. data: PostgreSQL, MongoDB, Redis. It ends with all systems ready and my email.">
 
-<sub>Everything above is plain ASCII. The portrait's characters are picked by shape from a photo and a depth map, with the oni mask painted on before the conversion; the showreel, headings and diagram come from the engines behind <a href="https://rexxar.xyz">rexxar.xyz</a>, where they run live.</sub>
+<sub>Everything above is plain ASCII. The portrait's characters are picked by shape from a photo and a depth map, with the oni mask painted on before the conversion; the demos, headings and diagram come from the code behind <a href="https://rexxar.xyz">rexxar.xyz</a>, where they run live.</sub>
